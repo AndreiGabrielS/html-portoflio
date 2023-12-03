@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+<html lang="ro">
+    <head>
+        <meta charet="UTF-8">
+        <title>Andrei Gabriel Portofoliu</title>
+ </head>
+ <body>
+    <h1>Andrei Gabriel Portofoliu</h1>
+    <h2>I'm a Web Developer</h2>
+    <hr />
+    <h3> <a href="../2.4 Movie Ranking Project/Top  3 movies.html"></a></h3>
+    <img src="../Top 3 Best movies.png" height="200" alt="movie-ranking project preview">
+    <h3> <a href="../3.4 Birthday Invite Project/index.html"></a></h3>
+    <img src="../Main party invitation.png" heigh="200" alt="Main party invitation project preview">
+    <img src="../Add for The party invitation.png" heigh="200" alt="Add for the party invitation project preview"></h3>
+    <hr>
+    <a href="./public/about.html">About Me</a>
+    <img src="../Contact Me.png"
+    <hr
+ </body>
+
+</html>
